@@ -1,6 +1,6 @@
 {
   "name": "@owfdr/sws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stdout to 'less' with style",
   "bin": "bin/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "style",
     "cli"
   ],
-  "author": "",
+  "author": "owfdr",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/owfdr/sws/issues"
