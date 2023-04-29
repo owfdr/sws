@@ -1,0 +1,26 @@
+{
+  "name": "@owfdr/sws",
+  "version": "1.0.0",
+  "description": "stdout to 'less' with style",
+  "bin": "bin/index.js",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owfdr/sws.git"
+  },
+  "type": "module",
+  "keywords": [
+    "stdout",
+    "less",
+    "style",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owfdr/sws/issues"
+  },
+  "homepage": "https://github.com/owfdr/sws#readme"
+}
