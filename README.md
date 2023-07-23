@@ -20,7 +20,7 @@ sws <command>
 
 ## Note
 
-requires `unbuffer` to be installed first
+Requires `unbuffer` to be installed.
 
 macOS:
 
