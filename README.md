@@ -30,8 +30,10 @@ brew install expect
 # unbuffer is part of the expect package.
 ```
 
-see [homebrew](https://formulae.brew.sh/formula/expect)
+See [homebrew](https://formulae.brew.sh/formula/expect)
 
-## License
+## 🧑‍💻 Other Apps
 
-MIT
+Check out:
+
+- [Our World](https://ourworld.center/apps) (Official Website)
